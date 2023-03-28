@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jamal, pursuing CS @ the University of Michigan 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Jamal, pursuing CS @ the University of Michigan 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Pantry](https://github.com/jamalvh/pantry)  
