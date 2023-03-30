@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to TensorFlow and Android Development technologies  
   
 
-- ⚡ Fun fact: I click 25 c/ps  
+- ⚡ Fun fact: I click 25 cps  
   
 
 <br/>  
