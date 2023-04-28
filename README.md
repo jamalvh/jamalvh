@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Pantry](https://github.com/jamalvh/pantry)  
   
 
-- 🌱 I’m currently learning C++ and Kotlin  
+- 🌱 I’m currently learning C++, Kotlin, and React 
   
 
 - ❓ Ask me about anything related to TensorFlow and Android Development technologies  
