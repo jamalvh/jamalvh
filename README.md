@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [Pantry](https://github.com/jamalvh/pantry)  
   
 
-- 🌱 I’m currently learning C++, Kotlin, and React 
+- 🌱 I’m currently learning C++, Dart, and Kotlin 
   
 
-- ❓ Ask me about anything related to TensorFlow and Android Development technologies  
+- ❓ Ask me about anything related to Web, Mobile, and TensorFlow Development technologies  
   
 
 - ⚡ Fun fact: I click 25 cps  
@@ -27,7 +27,8 @@
 
 
 ### Languages  
-<div align="center">  
+<div align="center">
+<a href="https://dart.dev" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Dart" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
@@ -37,7 +38,8 @@
 
 
 ### Software  
-<div align="center">  
+<div align="center">
+<a href="https://www.flutter.dev/" target="_blank"><img style="margin: 10px" src= "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://roboflow.com/" target="_blank"><img style="margin: 10px" src="https://blog.roboflow.com/favicon.png" alt="Roboflow" height="50" /></a>
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
