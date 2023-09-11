@@ -1,7 +1,7 @@
-### <div align="center">👋 I'm Jamal, pursuing CS @ the University of Michigan 👨‍💻</div>  
+### <div align="center">👋 I'm Jamal, pursuing CS @ the University of Michigan</div>  
   
 
-- 🔭 I’m currently working on [SpeedyFingers](https://github.com/jamalvh/speedyfingers)  
+- 👨‍💻 I’m currently working on [SpeedyFingers](https://github.com/jamalvh/speedyfingers)  
   
 
 - 🌱 I’m currently learning C++, Dart, and Kotlin 
