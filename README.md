@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to Mobile, Web, and TensorFlow Development technologies  
   
 
-- ⚡ Fun fact: I click 25 cps  
+- ⚡ Fun fact: I have geoached on 3 continenets  
   
 
 <br/>  
