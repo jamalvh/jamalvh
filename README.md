@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C++, Dart, and Kotlin 
   
 
-- ❓ Ask me about anything related to Web, Mobile, and TensorFlow Development technologies  
+- ❓ Ask me about anything related to Mobile, Web, and TensorFlow Development technologies  
   
 
 - ⚡ Fun fact: I click 25 cps  
