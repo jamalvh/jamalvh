@@ -1,7 +1,7 @@
 ## <div align="left">👋 Hey, I'm Jamal</div>  
   
 
-- 👨‍💻 I’m currently working on [MTickets 🚀](jamalvh.github.io)  
+- 👨‍💻 I’m currently working on [MTickets 🚀](https://jamalvh.github.io/)  
   
 
 - 🌱 I’m currently learning C++, Dart, and Kotlin 
