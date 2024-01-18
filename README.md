@@ -4,7 +4,7 @@
 - 👨‍💻 I’m currently working on [MTickets 🚀](https://jamalvh.github.io/)  
   
 
-- 🌱 I’m currently learning C++, Dart, and Kotlin 
+- 🌱 I’m currently learning C++, Dart, Html, and Python
   
 
 - ❓ Ask me about anything related to Mobile, Web, and TensorFlow Development technologies  
