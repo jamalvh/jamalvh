@@ -11,5 +11,6 @@
   
 
 - ⚡ Fun fact: I click 25cps  
-  
+
+Check out some of my pinned projects!
 <br/>  
