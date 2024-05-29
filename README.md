@@ -1,2 +1,2 @@
-👋 Hey, I'm Jamal: Check out some of my pinned projects!
+👋 Hey, I'm Jamal
 <br>
