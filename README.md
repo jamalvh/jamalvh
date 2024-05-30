@@ -1,1 +1,1 @@
-![github-header](https://github.com/jamalvh/jamalvh/assets/113135025/88cb615f-2672-43ef-b250-a98ad183a54d)
+![github-header-image](https://github.com/jamalvh/jamalvh/assets/113135025/af0abcdb-34e2-4d45-863c-7266cd88d16f)
